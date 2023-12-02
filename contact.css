@@ -1,0 +1,145 @@
+#nishi{
+    color:#99fa99;
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+font-family: 'Bricolage Grotesque', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+
+}
+#k{
+    color:white;
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+font-family: 'Bricolage Grotesque', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Tilt Prism', cursive;
+font-family: 'Ubuntu', sans-serif;
+}
+
+nav>a{
+    color:white;
+    text-align:center;
+    text-decoration: none;
+    margin: auto;
+    margin-left:50px;
+}
+nav>a:hover{
+    color: rgb(235, 57, 87);
+}
+nav{
+    top:80px;
+    padding-left: 200px;
+}
+
+#nishitha{
+    color:#99fa99;
+}
+
+#nis{
+    font-weight:bolder;
+
+}
+h1{
+    text-align: center;
+    color:#99fa99;
+    margin-top: 50px;
+     font-weight:bolder;
+}
+
+#nikki{
+    text-align: center;
+    color:rgb(25, 201, 25);
+    margin-left: 0px;
+    margin-right: 480px;
+    margin-top: -25px;
+    
+}
+#mummy{
+    color:#b6d8cf;
+}
+#nanna{
+    color:rgb(25, 201, 25);
+    background-color:#315f52;
+    margin-left: 900px;
+    margin-top: -70px;
+}
+
+.n{
+
+    border-radius: 10px;
+    background :#315f52;
+
+}
+#mahi{
+    width:900px;
+    height:900px;
+    background-color: white;
+    margin-left: 250px;
+    margin-top: -15px;
+    text-align: center;
+color:#99fa99 ;
+    margin-top:-10px;
+    margin-right: 200px;
+}
+
+#man{
+    text-align: center;
+    margin-right: 50px;
+    font-size: larger;
+}
+h2{
+    color: #21a51e;
+    font-family: 'nixie_oneregular';
+}
+#q{
+    color: #29a827;
+    background-color: #315f52;
+    width:50px;
+    border: #18d39e ;
+    font-family: 'nixie_oneregular';
+    border-radius: 5px;
+
+}
+#q:hover{
+    color: black;
+    background-color: rgb(245, 145, 178);
+}
+.y{
+    background: #d1d3d4;
+    border: 1px solid #b6d8cf;
+    color: #315f52;
+    width: 500px;
+    height: 30px;
+
+}
+textarea{
+    background: #d1d3d4;
+    border: 1px solid #b6d8cf;
+    color: #315f52;
+    padding-left: 20px;
+    width:500px
+}
+label{
+    color:#315f52;
+    margin-left: -450px;
+     
+}
+#z{
+    color:#315f52;
+    margin-left: -450px;
+}
+#l{
+    margin-left: -800px;
+    padding-top: 20px;
+}
+#d{
+   text-align: center;
+   padding-top: 100px;
+}
+

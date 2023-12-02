@@ -1,0 +1,161 @@
+#nishi{
+    color:#99fa99;
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+font-family: 'Bricolage Grotesque', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+
+}
+h2{
+    color:white;
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+font-family: 'Bricolage Grotesque', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Tilt Prism', cursive;
+font-family: 'Ubuntu', sans-serif;
+}
+
+nav>a{
+    color:white;
+    text-align:center;
+    text-decoration: none;
+    margin: auto;
+    margin-left:50px;
+}
+nav>a:hover{
+    color: rgb(235, 57, 87);
+}
+nav{
+    top:80px;
+    padding-left: 200px;
+}
+
+#nishitha{
+    color:#99fa99;
+}
+
+
+
+
+#nis{
+    font-weight:bolder;
+
+}
+h1{
+    text-align: center;
+    color:#99fa99;
+    margin-top: 50px;
+     font-weight:bolder;
+}
+#imge{
+    padding:150px;
+    padding-left: 500px
+    
+}
+#nikki{
+    text-align: center;
+    color:rgb(25, 201, 25);
+    margin-left: 0px;
+    margin-right: 480px;
+    margin-top: -25px;
+    
+}
+#mummy{
+    color:#b6d8cf;
+}
+#nanna{
+    color:rgb(25, 201, 25);
+    background-color:#315f52;
+    margin-left: 100px;
+    margin-top: -70px;
+}
+.n{
+
+    border-radius: 10px;
+    background :#315f52;
+
+
+}
+#mahi{
+    width:900px;
+    height:900px;
+    background-color: white;
+    margin-left: 250px;
+    margin-top: -15px;
+    text-align: center;
+color:#99fa99 ;
+    margin-top:-10px;
+    margin-right: 200px;
+}
+#man{
+    text-align: center;
+    margin-right: 50px;
+    font-size: larger;
+}
+#h2{
+    margin-top: -920px;
+    padding-right: 800px;
+    color: #21a51e;
+    font-family: 'nixie_oneregular';
+    padding-left: 7px;
+
+
+}
+h3{
+    font-family: 'nixie_oneregular';
+    font-size: px;
+    line-height: normal;
+    color:#315f52;
+    padding-right: 170px;
+
+}
+h6{
+     color:#315f52;
+    font-size: 12px;
+
+}
+.r{
+    text-decoration: none;
+}
+.r:link{
+    color: #315f52;
+}
+#p{
+    padding-right:470px;
+    margin-top: -40px;
+}
+#h{
+    padding-right: 400px;
+    
+}
+#heee{
+    padding-left: 800px;
+}
+.hey{
+    padding-left:0px;
+    color: #315f52;
+    padding-right: 150px;
+    
+}
+a{
+    color: #315f52;
+}
+#templete{
+    padding-right: 240px;
+}
+#part{
+    padding-right: 250px;
+}
+#we{
+    padding-right: 150px;
+}
+#have{
+    padding-right: 200px;
+}

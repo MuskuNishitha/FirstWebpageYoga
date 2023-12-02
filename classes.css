@@ -1,0 +1,134 @@
+#nishi{
+    color:#99fa99;
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+font-family: 'Bricolage Grotesque', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+
+}
+h2{
+    color:white;
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+font-family: 'Bricolage Grotesque', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'PT Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Tilt Prism', cursive;
+font-family: 'Ubuntu', sans-serif;
+}
+nav>a{
+    color:white;
+    text-align:center;
+    text-decoration: none;
+    margin: auto;
+    margin-left:50px;
+}
+nav>a:hover{
+    color: rgb(235, 57, 87);
+}
+nav{
+    top:80px;
+    padding-left: 200px;
+}
+#nishitha{
+    color:#99fa99;
+}
+
+
+
+
+#nis{
+    font-weight:bolder;
+
+}
+h1{
+    text-align: center;
+    color:#99fa99;
+    margin-top: 50px;
+     font-weight:bolder;
+}
+#imge{
+    padding:150px;
+    padding-left: 500px
+    
+}
+#nikki{
+    text-align: center;
+    color:rgb(25, 201, 25);
+    margin-left: 0px;
+    margin-right: 480px;
+    margin-top: -25px;
+    
+}
+#mummy{
+    color:#b6d8cf;
+}
+
+
+#mahi{
+    width:900px;
+    height:900px;
+    background-color: white;
+    margin-left: 250px;
+    margin-top: -15px;
+    text-align: center;
+color:#99fa99 ;
+    margin-top:-10px;
+    margin-right: 200px;
+
+}
+#man{
+    text-align: center;
+    margin-right: 50px;
+    font-size: larger;
+}
+#hello{
+    margin: -990px;
+    
+}
+#hello h2,p{
+    color:#315f52;
+
+}
+#c{
+    padding-right: 700px;
+}
+#hello h2{
+    padding-right: 750px;
+}
+.b{
+    padding-right: 680px;
+}
+.x{
+    padding-right: 200px;
+}
+#heee{
+    padding-left: 800px;
+}
+#nanna{
+    color:rgb(25, 201, 25);
+    background-color:#315f52;
+    margin-left: 100px;
+    margin-top: -70px;
+}
+.n{
+
+    border-radius: 10px;
+    background :#315f52;
+
+
+}
+#ki{
+    color: #99fa99;
+}
+#bad{
+    padding-right: 450px;
+}
+#you{
+    padding-right: 400px;
+}
